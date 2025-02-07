@@ -14,5 +14,6 @@ def authenticate_user(username, password):
         print("Authentication successful")
     else:
         print("Invalid username or password")
+        
 
     conn.close()
