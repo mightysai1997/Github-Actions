@@ -7,7 +7,7 @@ scanners:
   - sast
 #  - sca
 #  - secret
-#  - iac
+#  - iac 
 #  - container
 #  - dast
 
