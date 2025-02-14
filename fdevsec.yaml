@@ -12,9 +12,9 @@ scanners:
 #  - dast
 
 # Configures languages for sast scanner. If not configured, scans will be performed on all supported languages
-languages:
-#  - javascript
-  - python
+#languages:
+#  - c#
+#  - python
 
 # Configures target url where dynamic scan should be performed.
 #dast:
