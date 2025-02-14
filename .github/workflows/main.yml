@@ -24,7 +24,7 @@ jobs:
             else
               echo "fdevsec.yaml file does not exist."
             fi
-        - name: Print GitHub environment variables
+        - name: Print GitHub environment variable
           run: |
             echo "GITHUB_RUN_NUMBER: $GITHUB_RUN_NUMBER"
             echo "GITHUB_ACTIONS: $GITHUB_ACTIONS"
